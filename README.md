@@ -8,14 +8,18 @@
 ### Intro to Python Programming Course
 [Coursera](https://www.coursera.org/learn/python?specialization=python#syllabus)  
 
+### To Download
+#### Python 
+https://www.python.org/downloads/
+
+#### Pycharm IDE (Integrated Development Environment) to download (Community version)
+https://www.jetbrains.com/pycharm/download/
+
 ### Coding Website
-https://repl.ipython3t/languages/
+https://www.online-python.com/
 
 ### Reading Resource
 https://python101.pythonlibrary.org/part_i.html
-
-### IDE (Integrated Development Environment) to Download (Community version)
-https://www.jetbrains.com/pycharm/download/
 
 ### Video Tutorials 
 (short) https://www.youtube.com/watch?v=f79MRyMsjrQ  
@@ -23,6 +27,9 @@ https://www.jetbrains.com/pycharm/download/
 
 ### Django Web Development Framework
 https://docs.djangoproject.com/en/3.0/intro/tutorial02/
+
+#### Popular Django Website Examples
+https://www.monocubed.com/blog/django-website-examples/
 
 ### Stars Examples
 https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-python/
