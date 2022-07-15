@@ -36,9 +36,9 @@ Either way, they allow the programmer to write strings over multiple lines.
     # 012345678910
     # ........-2-1
     print(my_string)     # original
-    print(my_string[0:4]) # Like
+    print(my_string[0:4])  # Like
     print(my_string[:4])  # Like
-    print(my_string[5:11]) # Python
+    print(my_string[5:11])  # Python
     print(my_string[5:])  # Python
     print(my_string[-6:])  # Python
 
